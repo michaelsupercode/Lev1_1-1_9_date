@@ -1,0 +1,47 @@
+body {
+    background: rgb(104, 94, 94);
+}
+
+#count-down-timer {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: hsl(52, 79%, 45%);
+    font-size: 14px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+}
+
+#stamp {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: hsl(52, 79%, 45%);
+    font-size: 20px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+}
+
+#date {
+    position: absolute;
+    top: 52%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: hsl(52, 79%, 45%);
+    font-size: 14px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+}
+
+#Lev1_9 {
+    position: absolute;
+    top: 56%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: hsl(52, 79%, 45%);
+    font-size: 20px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+}
