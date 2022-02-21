@@ -1,5 +1,7 @@
 body {
     background: #302828;
+    max-width: 50%;
+    margin: 0 25%;
 }
 
 #count-down-timer {
