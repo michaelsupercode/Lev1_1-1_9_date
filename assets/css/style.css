@@ -47,3 +47,10 @@ body {
     font-family: Orbitron;
     letter-spacing: 7px;
 }
+
+h5 {
+margin: 5vh;
+text-align: center;
+color: white;
+font-size: .1em;
+}
